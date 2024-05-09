@@ -1,0 +1,3 @@
+1 - leia e armazene o número de 1 a 10 que deseja multiplicar por 9; #entrada
+2 - aplique a fórmula "dígito 1 = número-1" e "digito 2 = 10-número" e armazene o resultado #processamento
+3 - apresente o resultado da fórmula exibindo o dígito 1 e o dígito 2 ao lado #saída

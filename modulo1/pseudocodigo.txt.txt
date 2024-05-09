@@ -1,0 +1,6 @@
+1 - Início
+2 - Leia N; #entrada
+3 - N1 = N-1; #processamento
+4 - N2 = 10-N; #processamento
+5 - Imprima N1 ao lado N2; #saída
+6 - Fim
